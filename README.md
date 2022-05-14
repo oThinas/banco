@@ -13,7 +13,7 @@ O projeto está em fase de testes e está aberto a melhorias e correção de bug
 
 ## 📫 Contribuindo com o projeto
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
+2. Crie um branch: `git checkout -b master`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin banco`
 5. Crie a solicitação de pull.
