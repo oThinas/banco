@@ -1,18 +1,25 @@
-## Getting Started
+# Banco com Menu
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> O projeto é um banco com menu, no console, utilizando os conceitos de POO e desenvolvido em Java.
 
-## Folder Structure
+O projeto está em fase de testes e está aberto a melhorias e correção de bugs. Precisa ser testado em Linux e macOS.
 
-The workspace contains two folders by default, where:
+## 💻 Pré-requisitos
+* Ter instalado a versão JavaSE-18 ou superior.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ☕ Usando o sistema
+1. Clone ou faça download do repositório.
+2. Execute o código em sua IDE.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 📫 Contribuindo com o projeto
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin banco`
+5. Crie a solicitação de pull.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Dependency Management
+## 📝 Licença
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
